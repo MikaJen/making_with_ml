@@ -9,12 +9,20 @@
   "author": "Dale Markowitz",
   "license": "Apache-2.0",
   "dependencies": {
-    "discord.js": "^12.1.1",
+    "discord.js": "^12.5.3",
     "dotenv": "^8.2.0",
     "googleapis": "^48.0.0"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-config-google": "^0.14.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikaJen/making_with_ml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MikaJen/making_with_ml/issues"
+  },
+  "homepage": "https://github.com/MikaJen/making_with_ml#readme"
 }
