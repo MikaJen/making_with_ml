@@ -47,8 +47,8 @@ async function kickBaddie(user, guild) {
   }
 }
 
-/**
- * Analyzes a user's message for attribues
+/*
+ * Analyzes a user's message for attributes
  * and reacts to it.
  * @param {string} message - message the user sent
  * @return {bool} shouldKick - whether or not we should
