@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Dale Markowitz",
+  "author": "Mika Jen",
   "license": "Apache-2.0",
   "dependencies": {
     "discord.js": "^12.5.3",
