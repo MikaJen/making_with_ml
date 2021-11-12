@@ -40,7 +40,7 @@ const attributeThresholds = {
  * @return {json} res - analyzed atttributes
  */
 async function analyzeText(text) {
-  const analyzer = google.commentanalyzer('v1alpha1');
+  const analyzer = new googleapis.commentanalyzer_v1alpha1.Commentanalyzer();;
 
   // This is the format the API expects
   const requestedAttributes = {};
